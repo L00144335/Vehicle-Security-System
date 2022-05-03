@@ -12,7 +12,7 @@ class Emailer :
 		SMTP_SERVER = "smtp.gmail.com"
 		SMTP_PORT = 587
 		GMAIL_USERNAME = "yourcaralert@gmail.com" #yourCarAlert
-		GMAIL_PASSWORD = "raspberryPi77"
+		GMAIL_PASSWORD = "***********"
 		
 		#Create Headers
 		emailData = MIMEMultipart()
