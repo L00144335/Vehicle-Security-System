@@ -5,9 +5,9 @@ class Firebase :
 	def upload(self, image):
 		# declare credentials
 		config = {
-			"apiKey": "AIzaSyCwl7CFIamhtQeIq75gj-iyHifntE6r-Jc",
+			"apiKey": "**********************************",
 			"authDomain": "vehiclesecuritystorage.firebaseapp.com",
-			"databaseURL": "https://vehiclesecuritystorage-default-rtdb.firebaseio.com",
+			"databaseURL": "*****************************",
 			"projectId": "vehiclesecuritystorage",
 			"storageBucket": "vehiclesecuritystorage.appspot.com",
 			"serviceAccount": "serviceAccountKey.json" 
